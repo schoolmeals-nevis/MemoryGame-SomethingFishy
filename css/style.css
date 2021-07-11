@@ -5,12 +5,11 @@
 }
 
 .item-card {
-    flex: 0 0 0 23%;
+    flex: 0 0 23%;
     position: relative;
     border: 2px solid #ffffff;
     border-radius: 30px;
-    width: 200px;
-    height: 200px;
+    height: 300px;
     margin: 5px;
     transform-style: preserve-3d;
     transition: transform 0.5s;
