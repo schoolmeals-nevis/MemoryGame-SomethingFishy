@@ -3,7 +3,6 @@
     flex-flow: row wrap;
     justify-content: center;
     max-width: 750px;
-    height: 100vh;
     margin: 0 auto;
 }
 
@@ -12,7 +11,8 @@
     position: relative;
     border: 2px solid #ffffff;
     border-radius: 30px;
-    height: 23%;
+    height: 170px;
+    width: 200px;
     margin: 5px;
     transform-style: preserve-3d;
     transition: transform 0.5s;
